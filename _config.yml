@@ -1,0 +1,28 @@
+name: Wonderlab
+favicon: null
+layout_spectrum: 0.04163696221075952
+typography_spectrum: 0.5766826313920319
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.46918012807145715
+  lightness: 0.4244037396274507
+  saturation: 0.9294654382392764
+  rhythmicContrast: 0.255631850566715
+purpose: []
